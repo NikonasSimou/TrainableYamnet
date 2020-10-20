@@ -26,5 +26,5 @@ Audio should be resampled to 16kHz mono
 
 ### Acknowledgements
 
-* This work was implemented as part of a paper submited in ICASSP 2021 entitled **IMPROVEMENT OF DNN-BASED COUGH DETECTION USING TRANSFER LEARNING**.
-Authors of that paper are : [Nikonas Simou](https://github.com/NikonasSimou), Konstantinos Psaroulakis and Nikolaos Stefanakis.
+This work was implemented as part of a paper submited in ICASSP 2021 entitled **IMPROVEMENT OF DNN-BASED COUGH DETECTION USING TRANSFER LEARNING**.
+Authors of that paper are : [Nikonas Simou](https://github.com/NikonasSimou), [Konstantinos Psaroulakis](https://github.com/konpsar) and Nikolaos Stefanakis.
